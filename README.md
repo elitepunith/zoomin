@@ -10,6 +10,11 @@ a basic website made using gsap and lensis !
 4. gsap
 5. lensis
 
+### Features 
+
+1. scrolling effect 
+2. a quote 
+
 ### Preview
 
 ![alt text](image.png)
